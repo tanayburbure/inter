@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  @font-face {
+    font-family: font;
+    src: url(public\minh.otf);
+  }
+}
